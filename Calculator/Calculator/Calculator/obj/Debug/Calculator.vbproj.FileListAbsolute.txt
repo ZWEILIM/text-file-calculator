@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Program Files (x86)\Microsoft Visual Studio\Intern\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
